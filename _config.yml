@@ -53,3 +53,4 @@ plugins:
 #   - vendor/ruby/
 include:
   - _pages
+  - _layouts
