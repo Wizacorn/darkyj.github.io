@@ -22,7 +22,7 @@ What I don't need to worry about:
 5. Lack of great documentation
 
 The list could probably go on forever, I'm beyond ecstatic and can't wait to continue using this to document what I'm 
-learning everyday. 
+learning every day. 
 
 I'll be diving into [Jekyll variables][jekyll-vars] after this to make things a lot more structured and 
 prettier, but the defaults are honestly pretty on point, so it's not going to be a 
@@ -30,7 +30,7 @@ huge stretch to make things even better.
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
-If you're loooking for an extensive and truly in depth tutorial, please take a look at 
+If you're looking for an extensive and truly in depth tutorial, please take a look at 
 [Programming Historian's tutorial][programminghistorian-tut]. 
 This wonderful human goes into all the little tid-bits you may find yourself wondering. I 
 didn't need it exactly but if I didn't know where to begin, I'd start there.
