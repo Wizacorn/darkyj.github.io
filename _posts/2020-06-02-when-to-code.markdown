@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When To Code"
-date:   2020-05-29 22:14:02 -0700
+date:   2020-06-02 00:00:00 -0700
 categories: productivity philosophy
 ---
 
