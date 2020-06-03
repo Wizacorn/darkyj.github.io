@@ -36,14 +36,16 @@ The list can probably on indefinitely, but these come to mind first whenever my 
 problem. Leverage and guard your time.
 
 **How do you know if you're wasting your time?**
-If there is already a tool that exists, that solves your use-case
-If any cost regardless of optimization efforts associated with purchasing a software tool is considered too expensive, 
-strictly from a financial perspective
-If you don't know enough about the problem that you are trying to solve, how can you solve a problem that 
-you don't understand?
-If you and your team aren't stating your assumptions
 
-**Why You Should State Your Assumptions**
+1. If there is already a tool that exists, that solves your use-case
+2. If any cost regardless of optimization efforts associated with purchasing a software tool is considered too expensive, 
+strictly from a financial perspective
+3. If you don't know enough about the problem that you are trying to solve, how can you solve a problem that 
+you don't understand?
+4. If you and your team aren't stating your assumptions
+
+**Why You Should State Your Assumptions And How It Saves Time**
+
 "When you explain how you've reached your decision, team members will have an opportunity to call out new 
 facts or ideas that can help you make a better decision. Alternatively, if team members agree with your reasoning, 
 they will walk away with a deeper appreciation for your choice. They will respect your ability to assess a situation, 
@@ -52,6 +54,7 @@ allows you to logically validate your decision: is your decision sound and based
 current situation?" - [State your Assumptions][assumptions]
 
 **In Closing**
+
 As you are more protective over your time, and effectively cutting out the time waster side quests, 
 you'll find yourself learning at a much more productive and effective rate.  
 That being said, there's nothing wrong with venturing off into the wilderness and trying to 
